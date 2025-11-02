@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 🍓 Fruit Frenzy
 
 Fruit Frenzy is a fast-paced fruit-catching game built in Unity, inspired by Apple Picker but expanded with multiple fruit types, combo scoring, and difficulty scaling.
@@ -62,6 +61,3 @@ Object-oriented scripting in Unity
 Event-driven game logic
 
 Progressive difficulty systems
-=======
-# fruit-frenzy-project
->>>>>>> d44c53c69055a5520b13dfbb14e5ed684084d071
